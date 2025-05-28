@@ -1,0 +1,12 @@
+torch
+rasterio
+geopandas
+numpy
+fiona
+shapely
+matplotlib
+segment-geospatial
+tqdm
+pyproj
+pandas
+packaging
