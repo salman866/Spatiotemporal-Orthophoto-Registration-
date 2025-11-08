@@ -19,3 +19,11 @@ To use the SAM model, download the pre-trained weights from the following link:
   This notebook registers the raster orthophotos using the matched correspondences for alignment with reference images.
 
 Make sure to follow the sequence starting with `Correspondence matching.ipynb` before using the registration notebooks.
+
+## Citation
+
+If you use this repository or its methods in your research, please cite the following paper:
+
+> **Akhtar, M.S., Zafar, Z., Mahmood, Z. et al.**  
+> *Advancing Spatiotemporal Orthophoto Registration in UAV-based Crop Breeding Experiments Leveraging Field Geometric Features.*  
+> **PFG (2025).** [https://doi.org/10.1007/s41064-025-00365-8](https://doi.org/10.1007/s41064-025-00365-8)
