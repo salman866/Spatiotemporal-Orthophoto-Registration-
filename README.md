@@ -24,6 +24,7 @@ Make sure to follow the sequence starting with `Correspondence matching.ipynb` b
 
 If you use this repository or its methods in your research, please cite the following paper:
 
-> **Akhtar, M.S., Zafar, Z., Mahmood, Z. et al.**  
+> **Akhtar, M.S., Zafar, Z., Mahmood, Z., Khurshid, H., Naseem, M.R., Berns, K., Fraz, M.M. (2025).**  
 > *Advancing Spatiotemporal Orthophoto Registration in UAV-based Crop Breeding Experiments Leveraging Field Geometric Features.*  
-> **PFG (2025).** [https://doi.org/10.1007/s41064-025-00365-8](https://doi.org/10.1007/s41064-025-00365-8)
+> **PFG.** [https://doi.org/10.1007/s41064-025-00365-8](https://doi.org/10.1007/s41064-025-00365-8)
+
